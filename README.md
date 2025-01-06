@@ -1,44 +1,47 @@
-# PrácticaObligatoria3MZ
+# Práctica Obligatoria T3:
 ## Programa de simulación de una librería - "FERNANSHOP"
 ### Índice:
 
-- 0.0. Instalación.
-- 0.1. Descarga.
-- 0.2. Título.
-- 0.3. Menú principal.
-- 0.4. Funcionamiento.
+- **0. Introducción al programa.**
+    - [0.0. Instalación](#00-instalación)
+    - [0.1. Descarga](#01-descarga)
+    - [0.2. Título](#02-título)
+    - [0.3. Menú principal](#03-menú-principal)
+    - [0.4. Funcionamiento](#04-funcionamiento)
 - **1. Registro de un nuevo cliente y opciones.**
-    - 1.1. Formulario de registro.
-    - 1.2. Menú de opciones del cliente.
-    - 1.3. Consultar catálogo.
-    - 1.4. Realizar un pedido.
-    - 1.5. Ver mis pedidos realizados.
-    - 1.6. Ver mis datos personales.
-    - 1.7. Modificar mis datos personales.
-    - 1.8. Cerrar sesión.
-- **2. Inicio de sesión y opciones.**
-    - 2.1. Inicio de sesión del cliente.
-    - 2.2. Inicio de sesión del trabajador.
-          + 2.2.1. Usuario trabajador creado por defecto.
-          + 2.2.2. Menú de opciones.
-                + 2.2.2.1. Consultar los pedidos asignados.
-                + 2.2.2.2. Modificar el estado de un pedido.
-                + 2.2.2.3. Consultar el catálogo de productos.
-                + 2.2.2.4. Modificar un producto del catálogo.
-                + 2.2.2.5. Ver mi perfil.
-                + 2.2.2.6. Modificar mis datos personales.
-                + 2.2.2.7. Cerrar sesión.
-    - 2.3. Inicio de sesión del administrador.
-          + 2.3.1. Usuario administrador creado por defecto.
-          + 2.3.2. Menú de opciones.
-                + 2.3.2.1. Asignar un pedido a un trabajador.
-                + 2.3.2.2. Modificar el estado de un pedido.
-                + 2.3.2.3. Dar de alta a un trabajador.
-                + 2.3.2.4. Ver todos los pedidos.
-                + 2.3.2.5. Ver todos los clientes.
-                + 2.3.2.6. Ver todos los trabajadores.
-                + 2.3.2.7. Cerrar sesión.
+    - [1.1. Formulario de registro](#11-formulario-de-registro)
+    - [1.2. Menú de opciones del cliente](#12-menú-de-opciones-del-cliente)
+    - [1.3. Consultar catálogo](#13-consultar-catálogo)
+    - [1.4. Realizar un pedido](#14-realizar-un-pedido)
+    - [1.5. Ver mis pedidos realizados](#15-ver-mis-pedidos-realizados)
+    - [1.6. Ver mis datos personales](#16-ver-mis-datos-personales)
+    - [1.7. Modificar mis datos personales](#17-modificar-mis-datos-personales)
+    - [1.8. Cerrar sesión](#18-cerrar-sesión)
+- **2. Inicio de sesión y opciones.**  
+    - [2.1. Inicio de sesión del cliente](#21-inicio-de-sesión-del-cliente)  
+    - [2.2. Inicio de sesión del trabajador](#22-inicio-de-sesión-del-trabajador)
+        - [2.2.1. Usuario trabajador creado por defecto](#221-usuario-trabajador-creado-por-defecto)
+        - [2.2.2. Menú de opciones](#222-menú-de-opciones)
+            - [2.2.2.1. Consultar los pedidos asignados](#2221-consultar-los-pedidos-asignados)
+            - [2.2.2.2. Modificar el estado de un pedido](#2222-modificar-el-estado-de-un-pedido)
+            - [2.2.2.3. Consultar el catálogo de productos](#2223-consultar-el-catálogo-de-productos)
+            - [2.2.2.4. Modificar un producto del catálogo](#2224-modificar-un-producto-del-catálogo)
+            - [2.2.2.5. Ver mi perfil](#2225-ver-mi-perfil)
+            - [2.2.2.6. Modificar mis datos personales](#2226-modificar-mis-datos-personales)
+            - [2.2.2.7. Cerrar sesión](#2227-cerrar-sesión)  
+    - [2.3. Inicio de sesión del administrador](#23-inicio-de-sesión-del-administrador)
+        - [2.3.1. Usuario administrador creado por defecto](#231-usuario-administrador-creado-por-defecto)
+        - [2.3.2. Menú de opciones](#232-menú-de-opciones)
+            - [2.3.2.1. Asignar un pedido a un trabajador](#2321-asignar-un-pedido-a-un-trabajador)
+            - [2.3.2.2. Modificar el estado de un pedido](#2322-modificar-el-estado-de-un-pedido)
+            - [2.3.2.3. Dar de alta a un trabajador](#2323-dar-de-alta-a-un-trabajador)
+            - [2.3.2.4. Ver todos los pedidos](#2324-ver-todos-los-pedidos)
+            - [2.3.2.5. Ver todos los clientes](#2325-ver-todos-los-clientes)
+            - [2.3.2.6. Ver todos los trabajadores](#2326-ver-todos-los-trabajadores)
+            - [2.3.2.7. Cerrar sesión](#2327-cerrar-sesión)
 - **3. Apagar el software.**
+
+---
 
 # 0.0. Instalación.
 Para poder ejecutar el programa debemos instalar el [JDK 23.0.1](http://https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe "JDK 23.0.1"), cuando le des clic, se te instalará (debemos de verificar que esté en **C:\Program Files\Java**).
