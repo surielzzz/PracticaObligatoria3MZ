@@ -20,7 +20,7 @@
     - 2.1. Inicio de sesión del cliente.
     - 2.2. Inicio de sesión del trabajador.
           + 2.2.1. Usuario trabajador creado por defecto.
-          + 2.2.2. Menú de opciones
+          + 2.2.2. Menú de opciones.
                 + 2.2.2.1. Consultar los pedidos asignados.
                 + 2.2.2.2. Modificar el estado de un pedido.
                 + 2.2.2.3. Consultar el catálogo de productos.
@@ -30,7 +30,7 @@
                 + 2.2.2.7. Cerrar sesión.
     - 2.3. Inicio de sesión del administrador.
           + 2.3.1. Usuario administrador creado por defecto.
-          + 2.3.2. Menú de opciones
+          + 2.3.2. Menú de opciones.
                 + 2.3.2.1. Asignar un pedido a un trabajador.
                 + 2.3.2.2. Modificar el estado de un pedido.
                 + 2.3.2.3. Dar de alta a un trabajador.
