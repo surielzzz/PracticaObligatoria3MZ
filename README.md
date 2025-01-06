@@ -19,25 +19,25 @@
 - **2. Inicio de sesión y opciones.**
     - 2.1. Inicio de sesión del cliente.
     - 2.2. Inicio de sesión del trabajador.
-          - - 2.2.1. Usuario trabajador creado por defecto.
-          - - 2.2.2. Menú de opciones
-                - - - 2.2.2.1. Consultar los pedidos asignados.
-                - - - 2.2.2.2. Modificar el estado de un pedido.
-                - - - 2.2.2.3. Consultar el catálogo de productos.
-                - - - 2.2.2.4. Modificar un producto del catálogo.
-                - - - 2.2.2.5. Ver mi perfil.
-                - - - 2.2.2.6. Modificar mis datos personales.
-                - - - 2.2.2.7. Cerrar sesión.
+          + 2.2.1. Usuario trabajador creado por defecto.
+          + 2.2.2. Menú de opciones
+                + 2.2.2.1. Consultar los pedidos asignados.
+                + 2.2.2.2. Modificar el estado de un pedido.
+                + 2.2.2.3. Consultar el catálogo de productos.
+                + 2.2.2.4. Modificar un producto del catálogo.
+                + 2.2.2.5. Ver mi perfil.
+                + 2.2.2.6. Modificar mis datos personales.
+                + 2.2.2.7. Cerrar sesión.
     - 2.3. Inicio de sesión del administrador.
-          - - 2.3.1. Usuario administrador creado por defecto.
-          - - 2.3.2. Menú de opciones
-                - - - 2.3.2.1. Asignar un pedido a un trabajador.
-                - - - 2.3.2.2. Modificar el estado de un pedido.
-                - - - 2.3.2.3. Dar de alta a un trabajador.
-                - - - 2.3.2.4. Ver todos los pedidos.
-                - - - 2.3.2.5. Ver todos los clientes.
-                - - - 2.3.2.6. Ver todos los trabajadores.
-                - - - 2.3.2.7. Cerrar sesión.
+          + 2.3.1. Usuario administrador creado por defecto.
+          + 2.3.2. Menú de opciones
+                + 2.3.2.1. Asignar un pedido a un trabajador.
+                + 2.3.2.2. Modificar el estado de un pedido.
+                + 2.3.2.3. Dar de alta a un trabajador.
+                + 2.3.2.4. Ver todos los pedidos.
+                + 2.3.2.5. Ver todos los clientes.
+                + 2.3.2.6. Ver todos los trabajadores.
+                + 2.3.2.7. Cerrar sesión.
 - **3. Apagar el software.**
 
 # 0.0. Instalación.
