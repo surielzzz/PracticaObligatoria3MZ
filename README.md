@@ -246,3 +246,5 @@ Por último, en esta opción podemos ver todos los trabajadores que hay dados de
 
 ![](https://media.discordapp.net/attachments/1285298181797576846/1325967061741998161/image.png?ex=677db68e&is=677c650e&hm=9a58c20810d9828d1b66f9956c08f6f53f4f96aa1343a237deff5603c1b6815a&=&format=webp&quality=lossless)
 
+Hasta aquí nuestro software, gracias por leer y esperamos mejorar en futuras versiones. :)
+
